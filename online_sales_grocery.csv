@@ -1,0 +1,101 @@
+order_id,order_date,order_time,amount,product_id,product_name,customer_name
+1,2024-01-06,12:39:18,2775.96,13,Bananas,Manish Jain
+2,2024-10-24,11:00:29,882.75,11,Potatoes,Anil Kumar
+3,2024-03-19,01:55:15,2045.27,17,Lentils,Pooja Patel
+4,2024-03-31,12:08:59,943.94,4,Milk,Kavita Joshi
+5,2024-01-12,02:31:35,2623.41,8,Cheese,Rahul Singh
+6,2025-09-05,16:15:26,3553.66,2,Wheat Flour,Naveen Kulkarni
+7,2023-10-23,17:09:37,4557.57,12,Apples,Manish Jain
+8,2024-01-02,04:12:46,623.69,4,Milk,Vikram Mehta
+9,2024-02-17,14:32:51,4081.76,7,Bread,Anil Kumar
+10,2025-02-04,23:02:46,806.4,8,Cheese,Harish Rathi
+11,2024-08-20,22:00:31,2265.02,9,Tomatoes,Ishita Roy
+12,2023-12-15,05:37:00,1564.1,9,Tomatoes,Pooja Patel
+13,2024-02-10,16:45:38,775.22,17,Lentils,Ananya Sen
+14,2024-06-04,18:43:28,4467.6,15,Chicken,Manish Jain
+15,2024-02-08,06:04:36,4232.21,3,Sugar,Naveen Kulkarni
+16,2025-02-25,15:27:11,707,19,Salt,Naveen Kulkarni
+17,2025-01-02,14:43:39,3136.01,8,Cheese,Manish Jain
+18,2025-09-13,16:46:39,3017.74,19,Salt,Harish Rathi
+19,2024-10-07,19:36:37,3586.7,2,Wheat Flour,Kavita Joshi
+20,2024-04-30,01:38:48,123.29,20,Spices,Payal Sinha
+21,2025-06-24,19:30:14,4481.33,17,Lentils,Swati Mishra
+22,2025-09-29,05:03:35,1813.74,20,Spices,Sneha Iyer
+23,2024-04-14,17:37:44,4358.6,13,Bananas,Shalini Deshmukh
+24,2024-09-21,21:13:45,1367.72,17,Lentils,Ritika Saxena
+25,2025-05-23,07:31:00,1145.73,11,Potatoes,Amit Sharma
+26,2025-07-18,21:11:45,134.72,8,Cheese,Pooja Patel
+27,2024-01-18,19:37:24,4576.59,16,Fish,Sneha Iyer
+28,2024-05-22,21:26:34,2675.42,18,Cooking Oil,Kavita Joshi
+29,2024-10-13,23:04:24,2197.98,7,Bread,Payal Sinha
+30,2024-03-20,20:29:22,3190.29,5,Eggs,Rahul Singh
+31,2024-03-26,02:44:36,2743.25,3,Sugar,Sneha Iyer
+32,2024-05-06,10:54:04,2991.5,17,Lentils,Karan Kapoor
+33,2025-06-15,16:48:53,545.2,3,Sugar,Anil Kumar
+34,2024-12-01,00:50:24,356.74,19,Salt,Divya Kaushik
+35,2024-04-25,21:53:18,845.65,8,Cheese,Shalini Deshmukh
+36,2024-02-29,20:23:43,4161.11,15,Chicken,Swati Mishra
+37,2025-05-30,13:38:48,1825.88,6,Butter,Pooja Patel
+38,2025-06-17,14:35:12,2868.86,5,Eggs,Suresh Menon
+39,2025-09-06,06:27:57,2964.68,18,Cooking Oil,Nisha Yadav
+40,2024-03-11,12:23:13,4321.39,6,Butter,Swati Mishra
+41,2025-07-09,10:31:42,2879.23,14,Oranges,Naveen Kulkarni
+42,2025-06-06,13:27:57,4520.92,3,Sugar,Pooja Patel
+43,2025-05-19,09:39:31,2542.19,2,Wheat Flour,Sneha Iyer
+44,2024-10-23,06:00:31,1303.82,17,Lentils,Divya Kaushik
+45,2024-02-28,11:00:50,381.35,4,Milk,Akash Tripathi
+46,2025-01-05,02:00:55,2094.01,19,Salt,Sanjay Rao
+47,2025-03-15,01:34:33,3936.66,15,Chicken,Pooja Patel
+48,2025-01-06,10:39:07,1974.74,10,Onions,Ritika Saxena
+49,2024-05-16,03:16:39,4628.53,20,Spices,Swati Mishra
+50,2025-03-02,14:35:08,4343.07,9,Tomatoes,Suresh Menon
+51,2024-05-12,05:31:34,1044.13,1,Rice,Karan Kapoor
+52,2023-12-20,20:40:52,3162.32,1,Rice,Neha Gupta
+53,2024-03-17,09:38:11,2458.93,1,Rice,Pooja Patel
+54,2023-12-28,05:24:12,2819.16,7,Bread,Deepak Chawla
+55,2024-01-02,18:22:58,1045.02,19,Salt,Arjun Malhotra
+56,2025-06-19,10:55:01,1163.26,11,Potatoes,Karan Kapoor
+57,2025-02-17,04:14:39,4027.76,15,Chicken,Nisha Yadav
+58,2024-03-18,12:13:44,3484.59,8,Cheese,Harish Rathi
+59,2025-06-15,14:35:03,1912.12,9,Tomatoes,Rohan Das
+60,2025-06-29,16:54:57,4389.57,16,Fish,Kavita Joshi
+61,2025-03-20,04:47:47,3995.3,7,Bread,Naveen Kulkarni
+62,2024-09-29,09:01:54,2302.93,2,Wheat Flour,Rahul Singh
+63,2024-10-01,10:25:39,1668.35,13,Bananas,Suresh Menon
+64,2025-06-19,08:37:44,3419.27,2,Wheat Flour,Pooja Patel
+65,2025-01-14,05:36:17,1318.95,8,Cheese,Suresh Menon
+66,2025-09-19,19:34:34,923.84,18,Cooking Oil,Nisha Yadav
+67,2025-03-02,06:55:55,3788.35,4,Milk,Sneha Iyer
+68,2024-08-29,23:10:01,3220.55,15,Chicken,Rajeev Bhatia
+69,2025-02-16,03:54:32,3828.92,18,Cooking Oil,Akash Tripathi
+70,2024-07-12,19:48:24,3839.99,19,Salt,Suresh Menon
+71,2024-08-05,04:42:58,1975.25,8,Cheese,Anil Kumar
+72,2025-06-28,02:08:13,2275.59,14,Oranges,Amit Sharma
+73,2025-01-22,13:01:34,1251.7,9,Tomatoes,Manish Jain
+74,2025-07-27,16:20:42,3216.07,10,Onions,Nisha Yadav
+75,2023-12-19,22:07:00,3535.59,4,Milk,Neha Gupta
+76,2025-06-12,16:41:14,1956.95,19,Salt,Suresh Menon
+77,2024-12-22,11:58:56,3618.04,20,Spices,Sanjay Rao
+78,2023-12-04,13:37:46,1753.11,12,Apples,Karan Kapoor
+79,2024-12-28,18:17:17,4483.55,4,Milk,Meera Nair
+80,2023-12-10,09:26:24,4196.4,17,Lentils,Divya Kaushik
+81,2024-09-21,23:48:28,441.52,12,Apples,Ritika Saxena
+82,2024-11-13,16:55:36,4348.44,19,Salt,Rohan Das
+83,2024-09-06,20:20:12,3413.77,19,Salt,Harish Rathi
+84,2023-10-24,13:25:49,1954.53,15,Chicken,Ishita Roy
+85,2024-08-18,01:27:33,1379.25,1,Rice,Sanjay Rao
+86,2024-04-09,16:14:57,102.02,3,Sugar,Harish Rathi
+87,2024-07-18,13:21:24,2687.89,2,Wheat Flour,Naveen Kulkarni
+88,2024-11-02,17:13:26,1102.56,7,Bread,Ishita Roy
+89,2025-04-13,13:27:48,970.54,16,Fish,Shalini Deshmukh
+90,2024-07-13,04:57:31,1350.03,19,Salt,Divya Kaushik
+91,2025-03-06,12:33:09,1106.58,2,Wheat Flour,Manish Jain
+92,2024-09-20,22:01:54,4546.07,20,Spices,Pooja Patel
+93,2023-12-20,22:26:06,2301.73,5,Eggs,Payal Sinha
+94,2024-08-26,10:06:26,3406.1,2,Wheat Flour,Rajeev Bhatia
+95,2023-10-06,21:24:42,4439.19,19,Salt,Pooja Patel
+96,2025-07-07,20:16:24,936.58,18,Cooking Oil,Ishita Roy
+97,2025-07-17,15:37:23,2512.89,12,Apples,Akash Tripathi
+98,2024-06-14,10:14:07,1298.99,3,Sugar,Arjun Malhotra
+99,2025-07-30,13:36:45,891.08,17,Lentils,Naveen Kulkarni
+100,2025-05-03,16:37:34,3326.18,14,Oranges,Nisha Yadav
